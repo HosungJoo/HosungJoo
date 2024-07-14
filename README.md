@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Algorithm%20Study&fontSize=90&animation=twinkling)
-
-# 🐳 Hosung Joo GitHub!
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HosungJoo%20GitHub!&fontSize=90&animation=twinkling)
 
 <table>
   <tr>
