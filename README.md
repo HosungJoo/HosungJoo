@@ -6,6 +6,5 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
