@@ -1,8 +1,5 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/HosungJoo/HosungJoo/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhs9812)](https://solved.ac/jhs9812)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
