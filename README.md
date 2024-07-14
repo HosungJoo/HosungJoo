@@ -7,4 +7,5 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/-C++-00000?logo=c%2B%2B&style=flat" />
 </div>
